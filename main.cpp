@@ -14,6 +14,10 @@ int add(int a, int b) {
     return a + b;
 }
 
+int add(int a, int b) {
+    return a + b;
+}
+
 int main() {
     cout << "Hello world!" << endl;
     sub(3, 5);
